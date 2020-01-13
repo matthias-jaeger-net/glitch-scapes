@@ -4,7 +4,7 @@ Glitch landscape image generator w/ Processing
 
 
 # Examaple images
-![glitchScapes](imgages/cover.png)
+![glitchScapes](images/cover.png)
 
 ## Data Downloads
 - Final front side
